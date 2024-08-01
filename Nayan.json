@@ -7,18 +7,18 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "LISA,,,,,,BBY,,,,,,",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61558831411809",
+    "61558831411809"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61558831411809",
     ""
   ],
   "OWNER": ["100000959749712"], 
-  "APPROVED": [],
+  "APPROVED": [61558831411809],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
